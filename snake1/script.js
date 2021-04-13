@@ -19,6 +19,7 @@ while(cont < n){
     var numero = parseInt(prompt("inserisci un numero"));
     cont++;
     somma_+=numero;
+    
 }
 
 
